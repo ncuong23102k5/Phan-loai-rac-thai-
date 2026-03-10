@@ -1,0 +1,7 @@
+Cách chạy bài cuối kì:
+Bước 1: mở cmd lên, di chuyên  thư mục waster_cam
+Bước 2: chạy lệnh tạo môi trường ảo :  python -m venv .venv lệnh này sẽ tạo ra thư muc waster_cam\.venv
+Bước 3: Chạy lệnh để vào môi trường ảo : .venv\Scripts\activate
+Bước 4: Chạy lệnh : pip install numpy opencv-python . Để cài thư viện trong môi trường ảo
+Bước 5: chạy lệnh : python train_cuoiky.py . Để train mô hình
+Bước 6: Chạy lệnh : python run_cuoiky.py . Để chạy bài tập
