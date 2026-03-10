@@ -1,0 +1,6 @@
+Class names: ['huu_co', 'tai_che', 'vo_co']
+[[30  0  0]
+ [ 0 30  0]
+ [ 0  0 30]]
+
+Test loss=0.0364, test acc=1.0000
